@@ -1,11 +1,12 @@
 ## Hello, I'm Ivan!👋
 
-### Interests
+### Technical Interests
 * 🖥️ Studying Web-Programming
-* 🧠 Wonder about ML technologies
+* 📻 Curious about Radio-Electronics
 * 🔣 Interested in Formal Languages
+* 🧠 Exploring ML technologies
 * 🧮 Plunged into Applied Mathematics
-* 📐 Inspired by Fundamental Mathematics
+* 📐 Inspired by Pure Mathematics
 
 ### Contacts
 * Telegram: [@honsage](https://t.me/honsage)
