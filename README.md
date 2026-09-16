@@ -8,14 +8,14 @@ Certain that understanding a problem is harder than solving it.
 
 ## Stack
 
-**Backend (primary):** Java • Spring • Hibernate  
-**Backend (secondary):** Python • Django • DRF  
-**Frontend:** TypeScript • React • MobX  
+**Backend:** Java • Spring (Web, Data, Security)  
+**Frontend:** TypeScript • React • MobX • CSS  
 **Desktop:** Java • JavaFX  
 **Databases:** PostgreSQL • Redis • SQLite  
-**Infrastructure:** Docker • Nginx • GitHub Actions  
-**ML / Data:** Python • NumPy • Keras  
-**System design:** UML • BPMN • SADT • C4
+**Infrastructure:** Git • Maven • Docker • Nginx  
+**Testing:** JUnit • Mockito • Pytest • Jest  
+**Data / ML:** Python • Pandas • Keras  
+**System design:** UML • BPMN • SADT • C4  
 
 ---
 
@@ -40,29 +40,12 @@ Focused on:
 
 ---
 
-### Sedas
-
-Open-source backend platform for electronic document management and digital signatures.
-Implements API-first architecture with full OpenAPI documentation.
-
-`Django` • `DRF` • `PostgreSQL` • `Docker`
-
-Focused on:
-- Configurable approval workflows
-- RBAC
-- API-first approach
-- API documentation
-
-🔗 [Repository](https://github.com/Honsage/Sedas)
-
----
-
 ### GitPM
 
 Desktop developer tool for simplify and automate the management of local Git projects.
 Provides centralized projects management, tasks tracking and automation of development processes.
 
-`Java` • `JavaFX` • `JGit` • `SQLite`
+`Java` • `JavaFX` • `JGit` • `JDBC` • `SQLite`
 
 Focused on:
 - Local project management
@@ -88,21 +71,6 @@ Focused on:
 - Software architecture modeling
 
 🔗 [Repository](https://github.com/Honsage/System-Analysis)
-
----
-
-### Teaching Materials
-
-Collection of study guides, lecture notes and practical materials created to support university students in mathematics courses.
-Includes concise theory summaries, solved examples and assignments for calculus and probability theory.
-
-`LaTeX` • `Calculus` • `Probability Theory`
-
-Focused on:
-- Educational materials
-- Technical writing
-
-🔗 [Repository](https://github.com/Honsage/Teaching-Materials)
 
 ---
 
