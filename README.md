@@ -1,12 +1,12 @@
-# Hello, I'm Ivan 👋
+# Hi, my name is Ivan 👋
 
-Software engineering student exploring system design, software development and mathematics.
+I am a software engineer focused on backend development in the Java ecosystem. Also interested in system design, full development lifecycle (from domain analysis to deployment), and mathematical methods.
 
-Certain that understanding a problem is harder than solving it.
+Certain that understanding and structuring a problem is harder than solving it.
 
 ---
 
-## Stack
+## Tech Stack
 
 **Backend:** Java • Spring (Web, Data, Security)  
 **Frontend:** TypeScript • React • MobX • CSS  
@@ -14,44 +14,34 @@ Certain that understanding a problem is harder than solving it.
 **Databases:** PostgreSQL • Redis • SQLite  
 **Infrastructure:** Git • Maven • Docker • Nginx  
 **Testing:** JUnit • Mockito • Pytest • Jest  
-**Data / ML:** Python • Pandas • Keras  
-**System design:** UML • BPMN • SADT • C4  
+**Data / ML:** Python • SQL • Pandas • Keras  
+**System analysis:** UML • BPMN • SADT • C4  
 
 ---
 
-## Projects
+## My Projects
 
 ### Doceum
 
-Web platform for creating and distributing interactive documents as self-contained digital artifacts.
-Provides an ecosystem for authoring, publishing and consuming documents in the custom `.doceo` format with cryptographic verification.
+Web platform for creating and distributing interactive documents as standalone digital artifacts.
+Provides an ecosystem for authoring, publishing and viewing documents in the custom `.doceo` format with cryptographic verification.
 
-`Spring Boot (Java)` • `React (TS)` • `WASM (Rust)` • `PostgreSQL` • `Redis` • `Docker` • `GitHub Actions`
+`Spring Boot, Web, Data, Security (Java)` • `React (TS)` • `MobX` • `PostgreSQL` • `Redis` • `Nginx` • `Docker` • `GitHub Actions`
 
-Focused on:
-- Custom document format design
-- Interactive document editing and rendering
-- Verifiable publishing
-- Client-server architecture
-- Modular monolith architecture
-- WebAssembly integration
+Key focus areas: _Custom document format design_; _Interactive document editing and rendering_; _Verifiable publishing_; _Client-server architecture_; _Modular monolith architecture_;
 
-🔗 [Deployed website](https://doceum.ru) • [Repository](https://github.com/Honsage/Doceum) • [Format specification](https://honsage.github.io/Doceum/)
+🔗 [doceum.org](https://doceum.org) • [Repository](https://github.com/Honsage/Doceum) • [Format specification](https://honsage.github.io/Doceum/)
 
 ---
 
 ### GitPM
 
 Desktop developer tool for simplify and automate the management of local Git projects.
-Provides centralized projects management, tasks tracking and automation of development processes.
+Provides centralized projects management, dev tasks planning and automation of development workflows via user scripts.
 
 `Java` • `JavaFX` • `JGit` • `JDBC` • `SQLite`
 
-Focused on:
-- Local project management
-- Development workflow automation
-- Cross-platform desktop applications
-- Clean Architecture
+Key focus areas: _Centralized project management_; _Development workflows automation_; _Cross-platform desktop support_; _Onion architecture_;
 
 🔗 [Releases](https://github.com/Honsage/GitPM/releases/) • [Repository](https://github.com/Honsage/GitPM)
 
@@ -59,16 +49,12 @@ Focused on:
 
 ### System Analysis
 
-Collection of system analysis and software design artifacts for information systems and software products.
-Includes requirements specifications, business process models and architectural documentation.
+A portfolio of system analysis and software design works.
+Includes requirements specifications (SRS), business process models and architectural diagrams.
 
 `UML` • `BPMN` • `IDEF0` • `C4` • `Requirements Engineering`
 
-Focused on:
-- Domain analysis
-- Business process modeling
-- Requirements specification
-- Software architecture modeling
+Key focus areas: _Domain analysis_; _Business process modeling_; _Requirements specification_; _System architecture modeling_;
 
 🔗 [Repository](https://github.com/Honsage/System-Analysis)
 
@@ -82,6 +68,8 @@ Focused on:
 
 ## Contacts
 
-Email: [musatowian@gmail.com](mailto:musatowian@gmail.com)  
+Gmail: [musatowian@gmail.com](mailto:musatowian@gmail.com)  
+Yandex: [honsage@yandex.com](mailto:honsage@yandex.com)  
 Telegram: [@honsage](https://t.me/honsage)  
+VK: [vk.com/honsage](https://vk.com/honsage)  
 Habr: [@honsage](https://habr.com/ru/users/honsage/)
