@@ -62,7 +62,7 @@ Key focus areas: _Domain analysis_; _Business process modeling_; _Requirements s
 
 ## Stats
 
-![Top Languages](https://raw.githubusercontent.com/Honsage/github-stats-transparent/output/generated/languages.svg)
+![Top Languages](https://musatowian.ru/github-stats/languages.svg)
 
 ---
 
